@@ -50,6 +50,5 @@
         CoinChange.Calculate(ref MoneyChange,MoneyNumber);
         
         CoinChange.PrintInformation(MoneyChange);
-        
     }
 }
